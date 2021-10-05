@@ -2,7 +2,7 @@ package com.codeWithHarry;
 
 import java.util.Scanner;
 
-public class FactorialDemo {
+public class RecursionFactorialDemo {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         System.out.print("Find the factorial of n : ");
